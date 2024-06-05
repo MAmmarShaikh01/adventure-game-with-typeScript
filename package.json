@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "game-with-ts": "^1.0.0",
     "inquirer": "^9.2.23"
   },
   "name": "game-with-ts",
