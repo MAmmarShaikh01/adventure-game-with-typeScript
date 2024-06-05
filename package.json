@@ -1,10 +1,6 @@
 {
-  "dependencies": {
-    "game-with-ts": "^1.0.0",
-    "inquirer": "^9.2.23"
-  },
   "name": "game-with-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "game.js",
   "type": "module",
   "bin": "game.js",
